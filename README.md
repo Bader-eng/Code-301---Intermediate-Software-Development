@@ -9,7 +9,7 @@ I present to you some of the topics that are concerned with the development of p
 
 subject    | link
 ---------- | ----
-Code 102 - Intro to Software Development | [Code-102-Reading-Notes](https://bader-eng.github.io/Code-102-Reading-Notes/)
+Javascript_Templating.md | [Javascript_Templating.md](https://bader-eng.github.io/Code-102-Reading-Notes/)
 Code 201 - Foundations of Software Development | [Code-102-Reading-Notes](https://bader-eng.github.io/Code-201-Reading-Notes/)
 Code 301 - Intermediate Software Development | [Code-102-Reading-Notes](https://bader-eng.github.io/Code-301---Intermediate-Software-Development/)
 Code 401 - Advanced Software Development | [Code-102-Reading-Notes](https://bader-eng.github.io/Code-102-Reading-Notes/)

@@ -17,5 +17,5 @@ Rest | [Rest](Rest)
 SQL  | [SQL](SQL)
 functional programming  | [functional programming](functional programming)
 THE_ CALL_ STACK  | [THE_ CALL_ STACK](THE_ CALL_ STACK)
-SQL  | [SQL](SQL)
+ejs  | [ejs](ejs)
 

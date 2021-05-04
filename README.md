@@ -21,6 +21,6 @@ ejs  | [ejs](ejs)
 EJS | [EJS](EJS)
 Update_Delete | [Update_Delete](Update_Delete)
 Responsive_Web | [Responsive_Web](Responsive_Web)
-Responsive_Web | [Responsive_Web](Responsive_Web)
+jQuery | [jQuery](jQuery)
 
 
